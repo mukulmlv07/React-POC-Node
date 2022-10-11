@@ -1,0 +1,12 @@
+exports.dummyUserData=[
+  {
+    email:"mukul@gmail.com",
+    password:"mukul",
+    name:"mukul"
+  },
+  {
+    email:"virat@gmail.com",
+    password:"virat",
+    name:"virat"
+  },
+]

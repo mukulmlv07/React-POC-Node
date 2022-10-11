@@ -1,0 +1,12 @@
+mutation createEmployee($emp:createUserInput)
+{
+	createEmployee(newEmp:$emp){
+    name
+  }
+}
+
+{
+  employees{
+    name
+  }
+}
